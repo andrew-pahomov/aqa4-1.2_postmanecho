@@ -20,6 +20,7 @@ class PostmanEchoTest {
                 .then()
                 .statusCode(200)
                 .body(matchesJsonSchemaInClasspath("postmanecho.schema.json"))
+                .body("data", equalToObject("Data"))
         ;
     }
 }
