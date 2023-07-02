@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/avyqndp15vjqqetf/branch/master?svg=true)](https://ci.appveyor.com/project/andrew-pahomov/aqa4-postmanecho/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/c4n6ei3r5i8hc0gg/branch/master?svg=true)](https://ci.appveyor.com/project/andrew-pahomov/aqa4-1-2-postmanecho/branch/master)
