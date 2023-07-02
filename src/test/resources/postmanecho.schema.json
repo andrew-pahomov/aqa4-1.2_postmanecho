@@ -16,7 +16,7 @@
     },
     "data": {
       "type": "string",
-      "pattern": "^Data$"
+      "pattern": "^Hi$"
     },
     "files": {
       "type": "object"
